@@ -1,0 +1,13 @@
+{
+	"name": "@meshok/eslint-config-typescript",
+	"version": "0.0.0",
+	"description": "Meshoksoft common typescript eslint config",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Meshoksoft/eslint-config/tree/master/packages/eslint-config-typescript"
+	},
+	"engines": {
+		"node": ">= 14.8.0",
+		"pnpm": ">= 6"
+	}
+}

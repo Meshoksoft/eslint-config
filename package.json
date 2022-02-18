@@ -1,0 +1,17 @@
+{
+	"name": "@meshok/eslint-config",
+	"version": "0.0.0",
+	"description": "Meshoksoft eslint configs monorepo",
+	"private": true,
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Meshoksoft/eslint-config"
+	},
+	"engines": {
+		"node": ">= 14.8.0",
+		"pnpm": ">= 6"
+	},
+	"scripts": {
+		"test": "pnpm run --recursive --parallel --stream test"
+	}
+}
